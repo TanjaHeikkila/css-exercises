@@ -18,8 +18,8 @@ body {
 
 .part {
   display: flex;
-  justify-content: space-evenly;
-  gap: 8px;
+  /* justify-content: space-evenly; */
+  gap: 16px;
   padding: 0 16px 0 16px;
   align-items: center;
 }
@@ -60,5 +60,5 @@ ul {
   list-style-type: none;
   padding: 0;
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
